@@ -1,0 +1,45 @@
+---
+title: "Research"
+---
+
+### Dissertation Project 
+
+**Political Mobilisation and Its Consequences for Parties, Voters, and Political Change**
+
+My thesis focuses on the short- and long-term consequences of political mobilisation for political behaviour, party competition, and democracy. In the first paper of my thesis, I investigate how protests against migration restrictions and cooperation with the far right ahead of Germany’s 2025 federal election affected political behaviour. In my second paper, I examine not only when far-right parties lose, but also when potential ally parties benefit from anti-racist street mobilisation. My third paper investigates the historical foundations of political debates around extremism. I ask how experiences with political repression–as an answer to far-left political mobilisation–in democracies shape political behavior in the long run.
+
+
+### Published Work
+
+1. Bochkareva, Y., Silagadze, G., and Stephan, M. (2025). Replication of: “How Threats of Exclusion Mobilize Palestinian Political Participation”. (No. 261). [*I4R Discussion Paper Series*](https://www.econstor.eu/handle/10419/326980). 
+
+
+2. Stephan, M., Schürmann, L. (2025). How Anti-Racist Protests Influence Pro- and Anti-Migration Voting Behavior: Evidence from National and European Elections (No. ZZ 2025-601). [*WZB Discussion Paper*](https://www.econstor.eu/handle/10419/309433).
+
+
+3. Holm, A., Regnault, V., Sprengholz, M., and Stephan, M. (2021). Die Verfestigung sozialer
+Wohnversorgungsprobleme: Entwicklung der Wohnverhältnisse und der sozialen Wohnversorgung von 2006 bis 2018 in 77 deutschen Großstädten. [*Working Paper Forschungsförderung*](https://www.econstor.eu/handle/10419/234975).
+
+
+4. Holm, A., Regnault, V., Sprengholz, M., and Stephan, M. (2021). Muster sozialer Ungleichheit der Wohnversorgung in deutschen Großstädten. [*Working Paper Forschungsförderung*](https://www.econstor.eu/handle/10419/237091).
+
+
+### Working Papers
+
+1. Same Same but Different: How Protests against Migration Restrictions Move Sympathisers and Opponents <br>
+<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'inline' : 'none';" style="color: darkred; cursor: pointer;">[Abstract]</a><span style="display: none;"> <br>
+Do protests lead to electoral change, and are these effects uniform across localities and individuals? I argue that the same mobilisation can have different effects depending on local political contexts and individuals' prior preferences, because different mechanisms operate among different groups. I study protests against migration restrictions and cooperation with the far right ahead of Germany's 2025 federal election, combining protest-event data (ACLED), municipal election results (GERDA), and individual-level panel data (GLES). Protest exposure increased support for the pro-migration Left, decreased AfD support, and, less robustly, increased CDU/CSU support, the latter concentrated in areas with greater prior anti-migration support. Individual-level results help explain these local patterns: among left-leaning and pro-immigration respondents, protests reinforced pro-immigration attitudes and Left support, whereas anti-immigration respondents shifted from the AfD toward the CDU/CSU without changing underlying attitudes. The same mobilisation thus reinforces sympathisers' attitudes while changing the electoral behaviour, but not the attitudes, of opponents.
+</span>
+
+2. Conditional Allies: When Do Parties Gain from Street Mobilisation? (with [Lennart Schürmann](https://schuermannl.github.io/))  <br>
+<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'inline' : 'none';" style="color: darkred; cursor: pointer;">[Abstract]</a><span style="display: none;"> <br>
+When do parties benefit electorally from protest mobilisation? Research shows that anti-far-right mobilisation can hurt targeted parties. Yet, we know less about which parties gain from mobilisation, particularly in multi-party systems. We argue that parties benefit only when they are credibly positioned and electorally viable. When these conditions are met, stronger protest signals amplify electoral gains. We test this argument using two waves of anti-racist mobilisation in Germany following the 2020 Hanau terrorist attack and the 2024 revelation of far-right mass deportation plans. Using electoral-district voting data and difference-in-differences designs, we exploit variation in protest presence, frequency, and size. Protest exposure reduced AfD support in both elections. Yet, the Greens gained only in 2021, when viable and credibly positioned as pro-migration. The SPD lacked credibility, and the Left lacked viability. Losses for institutional enemies do not automatically translate into gains for opponents, but depend on credible positioning and electoral viability.
+</span>
+
+
+3. When Democracies Repress: Long-term Effects on the Political Left <br>
+<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'inline' : 'none';" style="color: darkred; cursor: pointer;">[Abstract]</a><span style="display: none;"> <br>
+How does political repression within a democracy shape political attitudes in the long run? This project examines the lasting consequences of the Radikalenerlass, a 1972 decree that subjected applicants for public employment in Germany to political loyalty screening and was applied predominantly against individuals affiliated with the radical left. Although adopted nationally, the intensity and duration of its enforcement varied substantially across states and, potentially, districts. I leverage this variation to examine whether individuals exposed to more intensive enforcement during their formative years subsequently display weaker identification with and greater distance from the political left. I further ask whether these effects persist beyond directly exposed cohorts, indicating intergenerational transmission. Theoretically, I distinguish three mechanisms through which the decree may have produced persistent effects: preference internalisation, chilling effects extending beyond those directly sanctioned, and the institutional legitimisation of a perceived symmetry between radical-left and radical-right politics. Empirically, the project combines historical variation in the enforcement of the Radikalenerlass with individual-level survey data on political attitudes and party preferences. By studying a time-limited episode of bureaucratic repression within a liberal democracy, the project examines whether state institutions can durably reshape the perceived boundaries of legitimate political expression even in the absence of authoritarian rule or large-scale coercion.
+ </span>
+   
+

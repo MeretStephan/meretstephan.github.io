@@ -1,0 +1,21 @@
+project:
+  type: website
+  resources:
+    - googlec936a5cde75aef0b.html
+
+website:
+  title: "Meret Stephan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: CV.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

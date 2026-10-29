@@ -1,0 +1,52 @@
+---
+title: Meret Stephan
+about:
+    image: img_1.jpeg
+    template: trestles
+    image-width: 250px
+    links:
+    - icon: ✉ Email
+      text: Email
+      href: mailto:meret.stephan@eui.eu
+    - icon: github
+      text: Github
+      href: https://github.com/meretstephan
+---
+
+
+I am a PhD candidate at the [Department of Political and Social Sciences](https://www.eui.eu/en/academic-units/political-and-social-sciences) at EUI under the supervision of [Simon Hix](https://simonhix.com/) and [Maarten Vink](https://www.eui.eu/people?id=maarten-vink).
+
+
+My research focuses on the short- and long-term consequences of political mobilisation for political behaviour, party competition, and democracy. In my thesis, I examine how protest and political mobilisation shape electoral behavior and political attitudes, revealing how civil society can influence political agendas in complex, context-specific ways.
+
+
+### Education
+
+- **European University Institute** <br>
+MRes/PhD Political Behavior, since 2024
+<br>
+
+- **Humboldt University Berlin** <br>
+MA Social Sciences
+<br>
+
+- **Humboldt University Berlin** <br>
+BA Social Sciences
+
+
+
+### Research Interests
+- Protests and Political Mobilisation
+- Political Behaviour and Public Opinion
+- Party Politics
+- Civil Society
+- Extremism
+
+
+
+
+<br>
+<br>
+
+
+<small>This website is inspired by <a href="https://charlottekuberka.github.io/">Charlotte Kuberka</a>.</small>
