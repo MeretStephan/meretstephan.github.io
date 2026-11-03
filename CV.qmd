@@ -6,7 +6,7 @@ format:
 ---
 
 <div style="width: 100%; height: 100vh; min-height: 800px;">
-  <object data="cv_oct26.pdf" 
+  <object data="CV_MeretStephan.pdf" 
           type="application/pdf" 
           width="100%" 
           height="100%">
